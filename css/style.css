@@ -1,0 +1,26 @@
+
+
+
+
+header {
+    background-color: black;
+    height: 70px;
+    display: flex;
+    padding: 0 35px;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+
+header h1 {
+    font-size: 1.4em;
+}
+
+#nav ul {
+    display: flex;
+}
+
+#nav li {
+    font-weight: bold;
+    margin-left: 35px;
+}
